@@ -1,0 +1,7 @@
+[requires]
+glog/0.4.0@bincrafters/stable
+opencv/4.0.1@conan/stable
+
+[generators]
+cmake
+
